@@ -38,7 +38,7 @@ I build **production-ready AI & data systems** that go beyond experimentation â€
   <a href="https://isrolaunchoutcome.streamlit.app/">
     <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
-  <a href="https://link.springer.com/article/10.1007/s12567-026-00717-z">
+  <a href="https://rdcu.be/fa8Vj">
     <img src="https://img.shields.io/badge/Research-008000?style=for-the-badge"/>
   </a>
 </p>
