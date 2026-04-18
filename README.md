@@ -50,30 +50,6 @@ I build **production-ready AI & data systems** that go beyond experimentation �
 
 ---
 
-## 📄 Research & Publication
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Published-Springer-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20Systems-blue?style=for-the-badge"/>
-</p>
-
-* 🧾 **Published Research (Springer)**
-  → Applied **Machine Learning & AI** for real-world problem solving
-  → Focus on **prediction, optimization, and system-level thinking**
-  → Demonstrates ability to **design experiments, evaluate models, and publish research**
-
-<p align="center">
-  <a href="https://link.springer.com/article/10.1007/s12567-026-00717-z">
-    <img src="https://img.shields.io/badge/Read_Paper-008000?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
 ## 🧠 What I Build
 
 ```text
@@ -94,15 +70,41 @@ Decision Systems    → Data → Insights → Business Actions
 
 ---
 
-## 🧪 Selected Work
+## 🧪 Projects
 
 * 🛰️ **Satellite Change Detection**
   → Deep Learning (U-Net + Siamese Networks) · 92.6% F1
   → Focus on real-world geospatial data problems
+  🔗 [https://github.com/akshatxn/satellitechangedetection](https://github.com/akshatxn/satellitechangedetection)
 
 * 📰 **News Aggregator (NLP + Data Pipeline)**
   → Built real-time ingestion + summarization system
   → Designed for scalable content processing
+  🔗 [https://github.com/akshatxn/news-aggregator-project](https://github.com/akshatxn/news-aggregator-project)
+
+---
+
+## 📄 Research & Publication
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Published-Springer-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20Systems-blue?style=for-the-badge"/>
+</p>
+
+* 🧾 **Published Research (Springer)**
+  → Applied **Machine Learning & AI** for real-world problem solving
+  → Focus on **prediction, optimization, and system-level thinking**
+  → Demonstrates ability to **design experiments, evaluate models, and publish research**
+
+<p align="center">
+  <a href="https://rdcu.be/fa8Vj">
+    <img src="https://img.shields.io/badge/Read_Paper-008000?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
