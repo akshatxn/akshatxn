@@ -1,35 +1,31 @@
-<!-- 🔥 Premium Animated Header -->
-
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Akshat%20Pal&height=120&fontSize=50&desc=ML%20Engineer%20%7C%20GenAI%20Builder%20%7C%20Data%20Systems&descAlignY=70&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00F7FF&text=Akshat%20Pal&height=120&fontSize=50&desc=ML%20Engineer%20%7C%20Data%20Analyst%20%7C%20GenAI%20Builder&descAlignY=70&animation=fadeIn"/>
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+ML+Systems;LLMs+%7C+RAG+%7C+AI+Agents;Turning+Data+into+Business+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=ML+%7C+Data+Engineering+%7C+Business+Analytics;From+Raw+Data+to+Real+Decisions;Building+Systems+That+Get+Used" />
 </p>
 
 ---
 
 ## ⚡ About Me
 
-I design and build **production-grade ML & GenAI systems** — not just models, but **end-to-end solutions** that deliver measurable impact.
+I build end-to-end ML & GenAI systems that go beyond demos — with a strong focus on translating data into **business insight and measurable outcomes**. I'm equally comfortable building a prediction pipeline, designing a KPI dashboard, or writing the SQL that feeds it.
 
-* 🎓 Final-year ECE @ VIT Chennai
-* 🤖 Focus: **Machine Learning · LLMs · Data Engineering**
-* 🚀 Strong interest in **AI agents, RAG pipelines, and scalable systems**
-* 📊 I care about one thing: **models that actually get used**
+- 🎓 Final-year ECE @ VIT Chennai
+- 🤖 Focus: **Machine Learning · Data Analytics · GenAI · Business Intelligence**
+- 📊 I care about one thing: **data that drives decisions**
+- 🚀 Strong interest in AI agents, RAG pipelines, and scalable data systems
 
 ---
 
 ## 🏆 Signature Project
 
-### 🚀 ISRO Launch Analytics
+### 🚀 ISRO Launch Analytics — *Published in Springer*
 
-<p align="center">
-  <a href="https://isrolaunchoutcome.streamlit.app/">
-    <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="320"/>
-  </a>
-</p>
+> Built an **end-to-end ML system** to predict mission success & optimize launch cost  
+> → XGBoost + K-Means clustering + Streamlit deployment  
+> → 📄 Peer-reviewed and published in Springer journal
 
 <p align="center">
   <a href="https://github.com/akshatxn/IsroLaunchOutcome">
@@ -39,13 +35,19 @@ I design and build **production-grade ML & GenAI systems** — not just models, 
     <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   </a>
   <a href="https://link.springer.com/article/10.1007/s12567-026-00717-z">
-    <img src="https://img.shields.io/badge/Research-008000?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Research_Paper-008000?style=for-the-badge"/>
   </a>
 </p>
 
-> Built an **end-to-end ML system** to predict mission success & optimize launch cost
-> → XGBoost + K-Means + Streamlit deployment
-> → 📄 Published in Springer (peer-reviewed)
+---
+
+## 🧪 Selected Work
+
+**🛰️ Satellite Change Detection**  
+→ U-Net + Siamese Networks · 92.6% F1 · Geospatial temporal analysis
+
+**📰 News Aggregator — NLP Pipeline**  
+→ Real-time ingestion · Classification · Summarization system
 
 ---
 
@@ -53,9 +55,9 @@ I design and build **production-grade ML & GenAI systems** — not just models, 
 
 ```text
 ML Systems        → Data → Features → Model → Deployment
-GenAI Systems     → RAG | Prompting | AI Agents
-Data Systems      → ETL Pipelines | APIs | Real-time flows
-Decision Systems  → Dashboards | KPIs | Business Insights
+GenAI Systems     → RAG | LLMs | AI Agents
+Data Systems      → SQL | ETL Pipelines | APIs | Real-time flows
+Analytics & BI    → Dashboards | KPIs | Business Insights | Reporting
 ```
 
 ---
@@ -66,57 +68,61 @@ Decision Systems  → Dashboards | KPIs | Business Insights
   <img src="https://skillicons.dev/icons?i=python,sql,pytorch,tensorflow,aws,azure,mongodb,docker,git" />
 </p>
 
----
-
-## 📊 Proof of Work
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatxn&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=akshatxn&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🧪 Selected Work
-
-* 🛰️ **Satellite Change Detection**
-  → U-Net + Siamese Networks · 92.6% F1
-
-* 📰 **News Aggregator (NLP)**
-  → Real-time pipeline · summarization system
+**Languages & Data** — Python · SQL · Pandas · NumPy  
+**ML / AI** — PyTorch · TensorFlow · Scikit-learn · XGBoost · LangChain · RAG  
+**Analytics & BI** — Power BI · Streamlit · Excel · ETL · MongoDB  
+**Cloud & Infra** — AWS · Azure · Docker · Git
 
 ---
 
 ## 💼 Experience
 
-**SDE Intern — Bluestock™**
-→ Deep learning on financial time-series (50K+ data points)
-→ Built APIs & ETL pipelines
+**SDE Intern — Bluestock™**  
+→ Deep learning on financial time-series (50K+ data points)  
+→ Built REST APIs and ETL pipelines for data processing workflows
 
-**ML Intern — ITH Technologies**
-→ Delivered 85%+ model accuracy
-→ Built dashboards for business tracking
+**ML Intern — ITH Technologies**  
+→ Delivered 85%+ model accuracy  
+→ Built business tracking dashboards — surfacing model outputs as actionable KPIs for stakeholders
 
 ---
 
 ## 🏅 Certifications
 
-* Machine Learning — Stanford & DeepLearning.AI
-* Google Advanced Data Analytics
-* Microsoft Azure AI Fundamentals (AI-900)
+- Machine Learning — Stanford & DeepLearning.AI
+- Google Advanced Data Analytics
+- Microsoft Azure AI Fundamentals (AI-900)
 
 ---
 
 ## 🧬 Current Focus
 
-* Building **LLM-powered applications beyond demos**
-* Designing **AI agents with real-world utility**
-* Scaling ML systems for **production environments**
+- Building **LLM-powered applications** that solve real business problems
+- Designing **AI agents** with practical, production-level utility
+- Developing skills in **data storytelling, dashboards, and BI reporting**
+- Scaling ML and data systems for **production environments**
 
 ---
 
-## 📬 Contact
+## 🎯 Open to Opportunities
+
+I'm actively looking for roles where I can build ML systems, analyze complex data, or deliver business insights at scale. My work spans the full **data-to-decision pipeline** — from model building to dashboards that stakeholders actually use.
+
+**Roles I'm targeting:**
+
+| Role | What I bring |
+|------|-------------|
+| ML Engineer | End-to-end pipelines, XGBoost, PyTorch, deployment |
+| Data Engineer | ETL, APIs, SQL, real-time data flows |
+| AI Engineer | RAG, LLMs, AI agents, LangChain |
+| Data Analyst | SQL, Python, dashboards, KPIs, insights |
+| Business Analyst | Data storytelling, BI tools, stakeholder reporting |
+
+> *Open to full-time, internship, and contract roles — India or remote.*
+
+---
+
+## 📬 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/akshat-pal-9b1870242/">
@@ -130,9 +136,7 @@ Decision Systems  → Dashboards | KPIs | Business Insights
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer"/>
 </p>
 
----
-
-> *Open to ML · GenAI · Data roles — building systems that matter.*
+> *Building systems that go from raw data to real decisions.*
