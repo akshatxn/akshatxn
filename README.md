@@ -13,7 +13,7 @@
 
 I build **production-ready AI & data systems** that go beyond experimentation — focusing on **real-world impact, scalability, and usability**.
 
-* 🎓 Final-year ECE @ VIT Chennai
+* 🎓 Final-year Electronics and Computer @ VIT Chennai
 * 🤖 Focus: **Machine Learning · LLMs · Data Engineering · Analytics**
 * 📊 Strong interest in **Data Analysis & Business Intelligence**
 * 🚀 Passionate about **AI Agents, RAG pipelines, and decision systems**
