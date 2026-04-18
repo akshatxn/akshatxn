@@ -1,0 +1,60 @@
+## 👋 Hey, I'm Akshat Pal
+
+**ML Engineer · Data Scientist · Analytics Professional**  
+Building intelligent systems with Machine Learning, Generative AI & turning data into decisions that drive business impact.
+
+I'm a final-year ECE student at **VIT Chennai** who bridges the gap between raw data and real business outcomes — whether that's a deployed ML model, an LLM-powered pipeline, or an executive dashboard that actually tells a story.
+
+---
+
+### 🏆 Featured Work
+**[ISRO Launch Outcome Predictor](https://github.com/akshatxn/IsroLaunchOutcome)**  
+> ML-driven mission analytics using XGBoost & K-Means to predict launch success & optimize site selection — **published in Springer Nature's CEAS Space Journal**
+
+---
+
+### 🧠 What I Build
+- 🤖 **GenAI & LLMs** — RAG pipelines, prompt engineering, LLM integration & fine-tuning
+- 📊 **Predictive ML** — end-to-end pipelines from raw data → deployed model → business insight
+- 📈 **Data & Business Analytics** — EDA, A/B testing, hypothesis testing, KPI dashboards (Power BI, Tableau)
+- 🛰️ **Deep Learning** — Siamese Networks, U-Net, semantic segmentation (92.6% F1)
+- ⚡ **Scalable Backends** — REST APIs, ETL pipelines, real-time data ingestion systems
+
+---
+
+### 🔧 Tech Stack
+`Python` `SQL` `PyTorch` `TensorFlow` `Scikit-learn` `LLMs` `RAG` `Claude API` `Power BI` `Tableau` `AWS` `Azure` `MongoDB` `Excel`
+
+---
+
+### 📌 Projects
+| Project | Highlights |
+|---|---|
+| 🚀 [ISRO Launch Analytics](https://github.com/akshatxn/IsroLaunchOutcome) | XGBoost · K-Means · Springer Published · Mission cost optimization |
+| 🛰️ [Satellite Change Detection](https://github.com/akshatxn/satellitechangedetection) | U-Net + Siamese Networks · 92.6% accuracy · 10K+ satellite images |
+| 📰 [News Aggregator](https://github.com/akshatxn/news-aggregator-project) | Real-time NLP pipeline · smart aggregation & summarization |
+
+---
+
+### 💼 Experience Snapshot
+- **SDE Intern @ Bluestock™** — Deep learning on 50K+ financial time-series · REST APIs · ETL pipelines
+- **ML Intern @ ITH Technologies** — 85%+ model accuracy · Power BI dashboards · KPI tracking
+
+---
+
+### 🏅 Certifications
+
+| Badge | Certification | Issuer |
+|---|---|---|
+| 🎓 | **Machine Learning Specialization** | Stanford University & DeepLearning.AI |
+| 📊 | **Google Advanced Data Analytics Certificate** | Google |
+| ☁️ | **Microsoft Certified: Azure AI Fundamentals (AI-900)** | Microsoft |
+
+---
+
+### 📬 Let's Connect
+[🔗 LinkedIn](https://www.linkedin.com/in/akshat-pal-9b1870242/) &nbsp;·&nbsp; [📄 Resume](https://drive.google.com/file/d/1W1edoelQDl14Ty6qB63ZWfm6LNj_chzv/view?usp=sharing) &nbsp;·&nbsp; [📖 Publication](https://link.springer.com/article/10.1007/s12567-026-00717-z)
+
+---
+
+> *Open to ML · Data Science · GenAI · Data Analytics · Business Analytics roles — let's build something meaningful.*
